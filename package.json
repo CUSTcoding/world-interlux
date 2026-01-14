@@ -1,0 +1,15 @@
+{
+  "name": "world-interlux",
+  "version": "1.0.0",
+  "description": "Aplicação de e-commerce para intermediação, consolidação e entrega de encomendas a Shein, AliExpress e Alibaba",
+  "keywords": [],
+  "author": "@custcoding",
+  "license": "ISC",
+  "packageManager": "pnpm@10.28.0",
+  "dependencies": {
+    "framer-motion": "^12.26.2",
+    "gsap": "^3.14.2",
+    "react-icons": "^5.5.0",
+    "swiper": "^12.0.3"
+  }
+}
