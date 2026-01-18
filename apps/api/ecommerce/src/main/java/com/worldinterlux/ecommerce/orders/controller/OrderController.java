@@ -69,5 +69,7 @@ public class OrderController {
         Order updatedOrder = orderService.updatePaidAmount(id, amount);
         return ResponseEntity.ok(new OrderDTO(updatedOrder));
     }
+
+
 }
 
